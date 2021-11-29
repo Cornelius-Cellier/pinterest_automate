@@ -1,2 +1,2 @@
 # pinterest_automate
-small program I used to post automatically on the Pinterest network for an e-commerce project
+A small program I used to post automatically on the social media Pinterest for an e-commerce startup
